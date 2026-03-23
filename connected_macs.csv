@@ -1,0 +1,3 @@
+mac_address,seen_at,ap_name,rssi
+AA:BB:CC:11:22:33,2025-11-22 09:10:12,AP-1,-45
+AA:BB:CC:44:55:66,2025-11-22 09:11:16,AP-2,-52
